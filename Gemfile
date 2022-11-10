@@ -28,6 +28,9 @@ gem "stimulus-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
+
+# Use storage image on my app
+gem "cloudinary"
 # protect my env
 gem "dotenv-rails", groups: [:development, :test]
 
